@@ -1,0 +1,5195 @@
+fileFormatVersion: 2
+guid: 6d32d08bc9bd499459378e70c5f669b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M484ExplosionSet1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6ce1e2cf7e9ea45a3a4ee6ccbdc03f
+      internalID: 1005107570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac5f6b009d53847a707b0ef645e05d
+      internalID: 1413310683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd52835e7e882a8489154f58cb0b45dc
+      internalID: -109497513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d964d9fbfa35348ad9336e9889e049
+      internalID: -1723740352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2241c0c9c3a2c41978221bbedf450d
+      internalID: 1849829477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a6e1677b924a49a47e39e4f50e331
+      internalID: 1694453543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df804a86b9258346a7046e596729141
+      internalID: 1208186751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 360
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df9bb2ebe049945847fafc0bb77792
+      internalID: 1920586120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3017335c1b6424498c9b862abfbc17e
+      internalID: -529553140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ccb973486c2a04b8129eea4ab8a58e
+      internalID: 432609632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49da8736b0b0de04d8b9c36d877375ae
+      internalID: -1970180466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39347b4b713d2d488e0960b13eee139
+      internalID: -1106893976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c93abea9dcfd8846b6b99c6bc2f0dd3
+      internalID: -770344677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a97621b5426345b4fbe4d242df053
+      internalID: -1137563443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_14
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26433ca89f64dd34282c3c527f72b5d9
+      internalID: -1954124906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d389493f0dd966d4892a0a6926c7c32d
+      internalID: -1469695445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d21dac971f3cc498b7e29b8de3f5f3
+      internalID: 1514433917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf1b7697eacc6419b8de274c32f3ed
+      internalID: -732945510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_18
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4721e6b9fc7578c4b8d33f57e52bd265
+      internalID: 1296674442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_19
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62213a56ac110fa489862948631d7db9
+      internalID: -1295473430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_20
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7bbae3f6176bc47851c5eee9dea863
+      internalID: 2041478651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f6c395e58504e47a415cc3b897c16d
+      internalID: 1954873806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5593b476f9154f81671a142b9b279
+      internalID: 1433931413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_23
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b22239e9641bd45adbb1c34441451c
+      internalID: 422352096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_24
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef797604620c84aadeaca382ce67ba
+      internalID: 332795177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_25
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f382bce2dee27b45a63230f1743a618
+      internalID: -2001009141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_26
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e879e10af0c82e43bfcf56a1f81ec40
+      internalID: 1859559777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_27
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb020545afc7e542851d785d3487b5f
+      internalID: -1684555504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2112b50c5d9b6b42bf352fcaec10692
+      internalID: 607815066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca28612b8cf1d40a9bc2ffb292605c
+      internalID: 1718157525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86047c9dcb70574292e2e67b78d4632
+      internalID: 620128181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158eb74de41e4847aa87eb0abdb836d
+      internalID: 86024153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8e838fbb0049648927e1c7f4dc97a8
+      internalID: 751109941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7593a365d13da43a2f7f0466f7a49c
+      internalID: 1840627092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 331
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b29eb156368b344835be2f1dd2711c
+      internalID: -678422851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 360
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c133039c453434429c65dc6982a98fa
+      internalID: 584231340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 361
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414d0b6b50e1b9479be814fc32e45ac
+      internalID: 1005725667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428db596dfc2890448353c009ac40f08
+      internalID: -652900364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d67a30ef260174eb93625bb996eedf
+      internalID: 1075916707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e67f6e6f8e1df54fb5bd7072c46c4fc
+      internalID: -1480297021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723ecf418a8f114c94068af9fa73754
+      internalID: -926107390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c9767ec29283542b0b9d8c863c55cb
+      internalID: 360363789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950a9467becbdb43a289656b347c174
+      internalID: -1034032684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_43
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0a2237849890b4ab1b86b0015463da
+      internalID: -1718984649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbcfd6ee18fb904a966b6781532eae3
+      internalID: 2008982128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd83deaff647aec44b7cd26af4be3f4e
+      internalID: 1088308472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad916f5dd6d19488dc516ce4161eae
+      internalID: -1706855630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea379fb0966c935428e44ae8c52d8f9b
+      internalID: 1666620449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_48
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940f3d433feb98448f6deed5e3acc82
+      internalID: -1230641539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_49
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bbd3a904214734a98f58cbcf80cdd5
+      internalID: 1674272465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c58bcb5659fa124ea8632c39780859f
+      internalID: 1900223753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ea98e0d01839418fbae9efd8bf009
+      internalID: -984499391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a9ac3221d86a940a5fbb830d07f85e
+      internalID: 1822819320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f7c6da18fa66e43a534131c975d457
+      internalID: 1442528970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384e9d80ddc272241ba4a17a548e6908
+      internalID: -1725776670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7732db3ef834f13489efefaf297ea3c4
+      internalID: -1666490066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 308
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3a39dad5538c248bd5603e1bce8558
+      internalID: 1243556007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655768402886a0343a49dfa6d7f1f657
+      internalID: -827260994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de66077e462fe646823d0a8190755e9
+      internalID: 477839018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f19aed8bf4c056408069b4d8f19e2a6
+      internalID: 1962335925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_60
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2b40d3ac6145c4085f774c82816ab1
+      internalID: -1586921387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d962e9a604d8419d083bedaa62d58
+      internalID: 132761795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_62
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65585e13dca74c540b058a5ce33aca7e
+      internalID: -879918555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_63
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d4aea3637ec2429263a9a5f818399
+      internalID: -247443306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_64
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e948afa59870549820dd5a8cd21a29
+      internalID: -1044558014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_65
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da964d03726403d4faf9fab118e4943d
+      internalID: 1181615332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_66
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438aebd1d81494b47b2db4020c0dd6b5
+      internalID: 282411642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_67
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00647cdf01f0050428bcc19af358b08b
+      internalID: -320925675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_68
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ebfb3241905524d8c5fcd2c639fbc4
+      internalID: -333340383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_69
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0571b1304f2b8a45b0bb3dd6ed2b34c
+      internalID: 1909426008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_70
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c69f4abe93b94f8c557dec6fd2306
+      internalID: 2136497555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d45eb38eb64d9a44bd7b92644018807
+      internalID: -240234769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_72
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 330
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bd572aa8ce8724da90d11b83960bf6
+      internalID: 1589526794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 332
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa46851535d8bc40a54566906c2e8ff
+      internalID: 205323454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740537956da80ad4dbb34831bf2ee64f
+      internalID: 1881388735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c005c5eb4a06b044ca35a8c69f77b89e
+      internalID: -1185886947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25bebb89eaf4e4bace500f59ca2534
+      internalID: 301062388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5aa5d0ed5aac4a8d976858ddd682f
+      internalID: -576925094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_78
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6def6c2f842c44044992228ba8c4e4a6
+      internalID: 1308025096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f4f0a541f8764a8cbd11baf050081
+      internalID: -1335296021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35fd99ca705334b986ce16f0a1d1b3
+      internalID: -1358097719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_81
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 308
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7801001abf2784da9c1a177b882662
+      internalID: -977003305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_82
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83534408f038e94da93830c349a0afc
+      internalID: -1428731159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_83
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba34e48fada6564fa212ee4633bd229
+      internalID: 876121809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171b19862dc67f469f124e2014a6706
+      internalID: 1946495529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aade44aaa285bd44811106a7fc5ed2e
+      internalID: 1795282492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_86
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a073a737b4567c4485910c08483f25f
+      internalID: -239853969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 219
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2dfc4ec892d1d4caab0649ef132070
+      internalID: 1208853495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_88
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8785e247a91adbc4f82f3b44266e4fc5
+      internalID: 144854259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a788c4db055677f49bbbd68c8a4874af
+      internalID: -1984501937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_90
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd633e90bb5e5f84dbc2fe983d6dfe08
+      internalID: -1814026200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_91
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d22df9342b3654a9a0cfa6f99b3526
+      internalID: 1461189802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea60091871f19f44bc9b2698728bf6e
+      internalID: 745935992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_93
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf009fd4391d7b43bb8193e10edc724
+      internalID: -1400714364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_94
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba27b65f14e1c64dbcb1e6426d3dd7e
+      internalID: -527699847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_95
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8d4d5883bad784a99ef332ddc061a4
+      internalID: -1350815621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_96
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712337c3c3283594b9e370bfae434d11
+      internalID: -1360735462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_97
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a900f014e5cd2646afdbba4469628b9
+      internalID: 491293498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_98
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be84b88d3511549bd9057a968e92ce
+      internalID: -61010310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_99
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e25ec6a0993d5428adb835dd2406f2
+      internalID: 9862693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_100
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19ef1513ec6b8642a1aac0bcb8b1433
+      internalID: -10964453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_101
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a941ed4ae62f64aabce9540dfe2899
+      internalID: 1866709165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_102
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de7f1f30553b94891c8c09e6f2b34f
+      internalID: -195137334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_103
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c5a69c9cee8234fab8007c8b88512f
+      internalID: 1908027248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_104
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e26cf4e6d143428e58b9a69da2a1a
+      internalID: -663918763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_105
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a77daca1102de4e9197f381ca8c49f
+      internalID: 2145528535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_106
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f4e9adb1eaf4d45bc272033edf2d2d
+      internalID: 2112343372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_107
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1d679abc370f42943047705fc3e1e
+      internalID: 1783671847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_108
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d35abd946358c40940506a8bccc086
+      internalID: 1470547648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ddce7cfbe266f4f8b92fec1571cc65
+      internalID: -232786863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1860911e4a3b04ea52eb5a84be520e
+      internalID: -776578686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906e271ed89fcfc49954ef6b07b8a83e
+      internalID: -1582567811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_112
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da5188571c501b4689c1f2a6ff50c41
+      internalID: -618813471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_113
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 219
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d6ddacc46b6048ad0199124024568
+      internalID: 1382648113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_114
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 220
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78a81bd2ed5e764898c7b2973536a30
+      internalID: 421536607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_115
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b742069382115046a800856909572c2
+      internalID: 848423226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_116
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf89323bb09a82418134204baaf7a77
+      internalID: 799242511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_117
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8fd3ec6122a17429ca05350f980306
+      internalID: -913782923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_118
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9533b3a223e367d449cbb31270ccfc55
+      internalID: 1295733204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_119
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acbf5157fa7ced4da122f1284966e24
+      internalID: -438000598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_120
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b84db66c39206e4294f2dbd00d163e7
+      internalID: -1029188234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_121
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aab397e1544cd4da039bf0a38b5a04
+      internalID: -1744084598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9846b3175e7d34bae21a1e1e8e00a3
+      internalID: 1119679703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_123
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0932cb87b5db7e94f92d5f03997f73e7
+      internalID: -1462833463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_124
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646d243cfc9efb84b8075ad5d15d57d2
+      internalID: 87907987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_125
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e878c367512b3b488dbd5e713a73267
+      internalID: -1787891883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_126
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9dcc4603e843546a51673d18d9cd7f
+      internalID: 502350533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_127
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be3e6845daeb740b2c6f4e44bc8b68
+      internalID: -1453508463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8157b0ed16b5ac4884934299e8dffc4
+      internalID: 1788544927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_129
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b67febd86c9ad348b08473a19801322
+      internalID: -103851631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_130
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d46eaa8c6943e4ab0633f4e1dde7f1
+      internalID: 1110393331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_131
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1a3985a6ce7e4d9e2fa6320a0e652
+      internalID: -353475988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_132
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 167
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec09699110dbe948a6adade5756025f
+      internalID: 2031491004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_133
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 201
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6d05ba4003c04eb67db2cbfddecf8
+      internalID: 1759916959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_134
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb0b1ad2412714489c445069f2d260
+      internalID: -1452638635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_135
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35025a7db8252414db2b603c3b59dbfd
+      internalID: 674084558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_136
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0f5693720a724ba9fb3fa0a83c7c6
+      internalID: -1689780697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_137
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad40d01309a7f3346ac94718897cadea
+      internalID: 594449812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_138
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfcd576bd007374d85af5471bc48e58
+      internalID: 1358036364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_139
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f67aa1f8157ae84f94b4ce9da5c8452
+      internalID: -125241722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_140
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb400b9e260214091dbabf3f9de233
+      internalID: -2091833234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_141
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938dee78fac3e747b5ccf901d2e6f99
+      internalID: 468734790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_142
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d724d7d58c424ba1429e5a13b8be6
+      internalID: 258291091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_143
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c64c14076dae44a7db7ce18dc6a0f
+      internalID: -1402639511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_144
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b7119e713b1fd4ba5e5756bc95f7a1
+      internalID: -934589698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_145
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6964d52f762f04f995c56edd53cda4
+      internalID: -935168683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_146
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12ba3a1da4b50c41b6dfae6f4769bad
+      internalID: -180600092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_147
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 189
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc834fe3e5fb9f40b6f9e988fab0f62
+      internalID: -1067781547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_148
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 189
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92233a9a5464c41bb655b4f66a4b79
+      internalID: -678544517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_149
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 191
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36f0c6beee33a48a41606628eca16c
+      internalID: 1458638403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_150
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8620733d5f9fb4bb37a298ad5f24d0
+      internalID: 1733890155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_151
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b40aeea857ef44a7cf139c6083abc
+      internalID: 1839206676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948f2f0ec309f44cadaab86a852aefd
+      internalID: -1800449771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_153
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab91826c914b34093c6009a593d053
+      internalID: -526574958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_154
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4639fa6d5a4404485973ae6ee4fcb0
+      internalID: -1239796085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_155
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 167
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc88e5d044c02c44e9a6086150cd10f4
+      internalID: -1842560917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_156
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1feb8bbdd52254799c7556cf6d45e3
+      internalID: -972642367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_157
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf19893986e21c42bb07b4423dd3a21
+      internalID: 1017922405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_158
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc449242e0edebe4698c7c48f03a0062
+      internalID: 1403677072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_159
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eadbcb6aa33da45a34cdc93dda55e8
+      internalID: -655869908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_160
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70cd3d7460f9a4c93c9a55fc4d7802
+      internalID: 1639883578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_161
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f7e69058eb2cf4ea37e7167037b61c
+      internalID: 1551368707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_162
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b6d7bb81d62441a8ef3d227b2ef92
+      internalID: 953897791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_163
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6102bb905782e9341a01b3f89892e1d0
+      internalID: -419263873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_164
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67c37eda1ff154ea2fdf45cef07635
+      internalID: 1157431541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_165
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1f925666097084ea14218461b315c5
+      internalID: -2006881822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_166
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cb2dd4cadd144fb5b8d35dbf8e8c8
+      internalID: 1806560262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_167
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7753262d342a43a49db0d55cab477
+      internalID: -1484721241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_168
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de2c609ce82764db16cfba8f096b8c
+      internalID: 682487615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_169
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d116050386be143b1755c82ebeef14
+      internalID: -156931169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_170
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e046294fac38a6a4ab3d0874a7bc8b8f
+      internalID: 536490244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_171
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b89a3897200954ea81be8bed729303
+      internalID: -152179934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_172
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3666b9983afd9448a8d236a86f70f8e
+      internalID: 2015426110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_173
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada00d61a762914daa79435eb9e5c55
+      internalID: -1520583266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_174
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a62422edc7c63b499c40ccd057f1cfb
+      internalID: -653292312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_175
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c5bbc433d5ef74f8f84f09a73f498e
+      internalID: 1371822342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_176
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5d2286f842064b9f85821678a12a3
+      internalID: 1905444841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_177
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c14d04d566b4458509c513f3634c0
+      internalID: 885493131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_178
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f3c0f935c74324c891301e4f6d4b03
+      internalID: 397704371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_179
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea57fb92f8aeca468bc5960fc71edfb
+      internalID: -741424147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_180
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea46eb6cd63e994cbc636db18c6784e
+      internalID: 161150853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_181
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab658da07e61acd40a11e7cc944beace
+      internalID: -870872012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_182
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ce64e399baab43af3256d10814432
+      internalID: 561779657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_183
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c2edba851df04c8467440594ebf4b
+      internalID: -1452434619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f81f48383e6274fa577986d67e612b
+      internalID: -355799495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_185
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5801f475a22d94aba0f391bd1feb04
+      internalID: 397509634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_186
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 43
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2bf2eb7b727624db324df041876e02
+      internalID: 227147824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_187
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 72
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3663dd6322d8c4998b60ac10ad5538
+      internalID: -1931669742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_188
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 73
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aebef7024d52540b96d80f69b449ca
+      internalID: 646308520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_189
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f714b4914ea1d543a1d3178dce92d8d
+      internalID: 1137655712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_190
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de74add142c7344b339b8ceb1ecc24
+      internalID: -445115072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_191
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b41014113a604b468300d6e60048c67
+      internalID: 2008100899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_192
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b270816f62ed478159f9c74fb0f45
+      internalID: 1832240758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_193
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4503b88fe7778844490aff1dfef94a97
+      internalID: -931524671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_194
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895c013965f0d634982db6c43aae73f9
+      internalID: -2129137104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_195
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf931c18d2f004a4494becba88c8a6b2
+      internalID: -1832114194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_196
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b52addc9bcb0141b19c0340247b927
+      internalID: -605066304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_197
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2db730820e4824eaa4eb1139e85488
+      internalID: 195155044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_198
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae756f8a6dfba6146bd64b7ca01c3fdf
+      internalID: 1220128736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_199
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb93725734bb3549a537d773f7a9422
+      internalID: 2063994698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_200
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e957c7c340aac73459afdb8459573263
+      internalID: 221301590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_201
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a0ac5856e322a4e98ed42fafcb5f62
+      internalID: 281223625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_202
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c12d6775aaaf541a3d2eebe6258f8a
+      internalID: -1353281643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_203
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c6a837a05727418083b57cc654c25
+      internalID: -1013574918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_204
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e1c0e00ac576a4aa93ca8e8aa2ccb5
+      internalID: -455419113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_205
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acf5b4abde71184eb7b2ce6c5f07919
+      internalID: 1180628393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_206
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 20
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8f86c551b93849b0e229fcf122b25
+      internalID: 1427195401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_207
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036935c740191643b3a6fd8fb5fcce1
+      internalID: 424491500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_208
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f64c9e8293dd49bbfa30ff29e6a88
+      internalID: -294588577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_209
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9f70aede4e6d41ae75b80084b595f
+      internalID: 1301808937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_210
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc8043855975194ba22194fc1275b56
+      internalID: 1148803272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_211
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac436d2d9fd47b54d8ccc3f86c8559fe
+      internalID: 1961660684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_212
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eccda3130cc1c42b3bb124a02532f2
+      internalID: -1253986142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_213
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d1f896d53d4854d8cd8c3603365d41
+      internalID: 964409754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_214
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30d9acfd618594ebe408e8ce640f59
+      internalID: -324052708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_215
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e39688763d9ee4485adbe62e518f1d
+      internalID: -906997262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_216
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ffd153394a1a04c845674739e77995
+      internalID: 1209294560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_217
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb9154a6f17b174d924b36040cdd87e
+      internalID: 644529880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_218
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afa8b3eb7bf39c40ba84f5b6cc9cfa1
+      internalID: 1245063882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_219
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a9a02de308a541a0a1d383e22e936
+      internalID: 340142975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_220
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001cf816c01437f4892c25c9843aa279
+      internalID: -955899524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_221
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c533a5b5af507458dacea13dafdb14
+      internalID: -980201988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_222
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5410f8089304a4daa9e9fb016d2b57
+      internalID: 2076105140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_223
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0673336c79cba45418ac290bba0b3fde
+      internalID: 2101194793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_224
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acd9ecc338240b428ad951fbc9dbf46
+      internalID: 228989311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_225
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fde6128dcf753408b7657935ca3dbf
+      internalID: 1031750194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_226
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3ec664098053a4094c49e0b9b36298
+      internalID: 709753197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_227
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6a8b95d7a18f488092490f2afd124
+      internalID: -2085368820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_228
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff094c566c03f374c90b534d1706502b
+      internalID: -1901072200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M484ExplosionSet1_229
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 20
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc112fbcde94a434bb236dd0d02c085f
+      internalID: 1215851392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      M484ExplosionSet1_107: 1783671847
+      M484ExplosionSet1_101: 1866709165
+      M484ExplosionSet1_33: 1840627092
+      M484ExplosionSet1_42: -1034032684
+      M484ExplosionSet1_109: -232786863
+      M484ExplosionSet1_209: 1301808937
+      M484ExplosionSet1_18: 1296674442
+      M484ExplosionSet1_47: 1666620449
+      M484ExplosionSet1_201: 281223625
+      M484ExplosionSet1_185: 397509634
+      M484ExplosionSet1_206: 1427195401
+      M484ExplosionSet1_114: 421536607
+      M484ExplosionSet1_135: 674084558
+      M484ExplosionSet1_83: 876121809
+      M484ExplosionSet1_210: 1148803272
+      M484ExplosionSet1_20: 2041478651
+      M484ExplosionSet1_96: -1360735462
+      M484ExplosionSet1_22: 1433931413
+      M484ExplosionSet1_156: -972642367
+      M484ExplosionSet1_172: 2015426110
+      M484ExplosionSet1_27: -1684555504
+      M484ExplosionSet1_193: -931524671
+      M484ExplosionSet1_79: -1335296021
+      M484ExplosionSet1_126: 502350533
+      M484ExplosionSet1_7: 1920586120
+      M484ExplosionSet1_222: 2076105140
+      M484ExplosionSet1_111: -1582567811
+      M484ExplosionSet1_117: -913782923
+      M484ExplosionSet1_178: 397704371
+      M484ExplosionSet1_120: -1029188234
+      M484ExplosionSet1_4: 1849829477
+      M484ExplosionSet1_205: 1180628393
+      M484ExplosionSet1_154: -1239796085
+      M484ExplosionSet1_132: 2031491004
+      M484ExplosionSet1_212: -1253986142
+      M484ExplosionSet1_95: -1350815621
+      M484ExplosionSet1_128: 1788544927
+      M484ExplosionSet1_171: -152179934
+      M484ExplosionSet1_177: 885493131
+      M484ExplosionSet1_0: 1005107570
+      M484ExplosionSet1_199: 2063994698
+      M484ExplosionSet1_68: -333340383
+      M484ExplosionSet1_174: -653292312
+      M484ExplosionSet1_82: -1428731159
+      M484ExplosionSet1_207: 424491500
+      M484ExplosionSet1_76: 301062388
+      M484ExplosionSet1_138: 1358036364
+      M484ExplosionSet1_48: -1230641539
+      M484ExplosionSet1_163: -419263873
+      M484ExplosionSet1_69: 1909426008
+      M484ExplosionSet1_14: -1954124906
+      M484ExplosionSet1_129: -103851631
+      M484ExplosionSet1_153: -526574958
+      M484ExplosionSet1_208: -294588577
+      M484ExplosionSet1_30: 620128181
+      M484ExplosionSet1_88: 144854259
+      M484ExplosionSet1_144: -934589698
+      M484ExplosionSet1_176: 1905444841
+      M484ExplosionSet1_123: -1462833463
+      M484ExplosionSet1_19: -1295473430
+      M484ExplosionSet1_192: 1832240758
+      M484ExplosionSet1_1: 1413310683
+      M484ExplosionSet1_160: 1639883578
+      M484ExplosionSet1_15: -1469695445
+      M484ExplosionSet1_112: -618813471
+      M484ExplosionSet1_115: 848423226
+      M484ExplosionSet1_50: 1900223753
+      M484ExplosionSet1_228: -1901072200
+      M484ExplosionSet1_113: 1382648113
+      M484ExplosionSet1_104: -663918763
+      M484ExplosionSet1_182: 561779657
+      M484ExplosionSet1_100: -10964453
+      M484ExplosionSet1_220: -955899524
+      M484ExplosionSet1_13: -1137563443
+      M484ExplosionSet1_64: -1044558014
+      M484ExplosionSet1_204: -455419113
+      M484ExplosionSet1_103: 1908027248
+      M484ExplosionSet1_110: -776578686
+      M484ExplosionSet1_136: -1689780697
+      M484ExplosionSet1_45: 1088308472
+      M484ExplosionSet1_139: -125241722
+      M484ExplosionSet1_70: 2136497555
+      M484ExplosionSet1_162: 953897791
+      M484ExplosionSet1_225: 1031750194
+      M484ExplosionSet1_81: -977003305
+      M484ExplosionSet1_24: 332795177
+      M484ExplosionSet1_16: 1514433917
+      M484ExplosionSet1_80: -1358097719
+      M484ExplosionSet1_99: 9862693
+      M484ExplosionSet1_134: -1452638635
+      M484ExplosionSet1_23: 422352096
+      M484ExplosionSet1_41: 360363789
+      M484ExplosionSet1_17: -732945510
+      M484ExplosionSet1_142: 258291091
+      M484ExplosionSet1_219: 340142975
+      M484ExplosionSet1_61: 132761795
+      M484ExplosionSet1_167: -1484721241
+      M484ExplosionSet1_36: 1005725667
+      M484ExplosionSet1_44: 2008982128
+      M484ExplosionSet1_77: -576925094
+      M484ExplosionSet1_211: 1961660684
+      M484ExplosionSet1_93: -1400714364
+      M484ExplosionSet1_10: -1970180466
+      M484ExplosionSet1_87: 1208853495
+      M484ExplosionSet1_91: 1461189802
+      M484ExplosionSet1_26: 1859559777
+      M484ExplosionSet1_118: 1295733204
+      M484ExplosionSet1_214: -324052708
+      M484ExplosionSet1_84: 1946495529
+      M484ExplosionSet1_51: -984499391
+      M484ExplosionSet1_184: -355799495
+      M484ExplosionSet1_58: 477839018
+      M484ExplosionSet1_188: 646308520
+      M484ExplosionSet1_74: 1881388735
+      M484ExplosionSet1_31: 86024153
+      M484ExplosionSet1_155: -1842560917
+      M484ExplosionSet1_122: 1119679703
+      M484ExplosionSet1_158: 1403677072
+      M484ExplosionSet1_194: -2129137104
+      M484ExplosionSet1_75: -1185886947
+      M484ExplosionSet1_165: -2006881822
+      M484ExplosionSet1_168: 682487615
+      M484ExplosionSet1_202: -1353281643
+      M484ExplosionSet1_218: 1245063882
+      M484ExplosionSet1_98: -61010310
+      M484ExplosionSet1_131: -353475988
+      M484ExplosionSet1_43: -1718984649
+      M484ExplosionSet1_152: -1800449771
+      M484ExplosionSet1_190: -445115072
+      M484ExplosionSet1_198: 1220128736
+      M484ExplosionSet1_141: 468734790
+      M484ExplosionSet1_9: 432609632
+      M484ExplosionSet1_127: -1453508463
+      M484ExplosionSet1_169: -156931169
+      M484ExplosionSet1_92: 745935992
+      M484ExplosionSet1_148: -678544517
+      M484ExplosionSet1_203: -1013574918
+      M484ExplosionSet1_197: 195155044
+      M484ExplosionSet1_145: -935168683
+      M484ExplosionSet1_73: 205323454
+      M484ExplosionSet1_186: 227147824
+      M484ExplosionSet1_221: -980201988
+      M484ExplosionSet1_94: -527699847
+      M484ExplosionSet1_66: 282411642
+      M484ExplosionSet1_38: 1075916707
+      M484ExplosionSet1_67: -320925675
+      M484ExplosionSet1_102: -195137334
+      M484ExplosionSet1_21: 1954873806
+      M484ExplosionSet1_78: 1308025096
+      M484ExplosionSet1_90: -1814026200
+      M484ExplosionSet1_196: -605066304
+      M484ExplosionSet1_181: -870872012
+      M484ExplosionSet1_65: 1181615332
+      M484ExplosionSet1_29: 1718157525
+      M484ExplosionSet1_137: 594449812
+      M484ExplosionSet1_133: 1759916959
+      M484ExplosionSet1_229: 1215851392
+      M484ExplosionSet1_175: 1371822342
+      M484ExplosionSet1_170: 536490244
+      M484ExplosionSet1_8: -529553140
+      M484ExplosionSet1_180: 161150853
+      M484ExplosionSet1_86: -239853969
+      M484ExplosionSet1_164: 1157431541
+      M484ExplosionSet1_12: -770344677
+      M484ExplosionSet1_140: -2091833234
+      M484ExplosionSet1_108: 1470547648
+      M484ExplosionSet1_216: 1209294560
+      M484ExplosionSet1_146: -180600092
+      M484ExplosionSet1_143: -1402639511
+      M484ExplosionSet1_59: 1962335925
+      M484ExplosionSet1_105: 2145528535
+      M484ExplosionSet1_191: 2008100899
+      M484ExplosionSet1_157: 1017922405
+      M484ExplosionSet1_215: -906997262
+      M484ExplosionSet1_195: -1832114194
+      M484ExplosionSet1_183: -1452434619
+      M484ExplosionSet1_28: 607815066
+      M484ExplosionSet1_130: 1110393331
+      M484ExplosionSet1_166: 1806560262
+      M484ExplosionSet1_159: -655869908
+      M484ExplosionSet1_25: -2001009141
+      M484ExplosionSet1_189: 1137655712
+      M484ExplosionSet1_97: 491293498
+      M484ExplosionSet1_187: -1931669742
+      M484ExplosionSet1_173: -1520583266
+      M484ExplosionSet1_32: 751109941
+      M484ExplosionSet1_119: -438000598
+      M484ExplosionSet1_49: 1674272465
+      M484ExplosionSet1_125: -1787891883
+      M484ExplosionSet1_121: -1744084598
+      M484ExplosionSet1_37: -652900364
+      M484ExplosionSet1_227: -2085368820
+      M484ExplosionSet1_223: 2101194793
+      M484ExplosionSet1_46: -1706855630
+      M484ExplosionSet1_85: 1795282492
+      M484ExplosionSet1_224: 228989311
+      M484ExplosionSet1_63: -247443306
+      M484ExplosionSet1_106: 2112343372
+      M484ExplosionSet1_6: 1208186751
+      M484ExplosionSet1_11: -1106893976
+      M484ExplosionSet1_60: -1586921387
+      M484ExplosionSet1_57: -827260994
+      M484ExplosionSet1_124: 87907987
+      M484ExplosionSet1_149: 1458638403
+      M484ExplosionSet1_217: 644529880
+      M484ExplosionSet1_5: 1694453543
+      M484ExplosionSet1_151: 1839206676
+      M484ExplosionSet1_40: -926107390
+      M484ExplosionSet1_53: 1442528970
+      M484ExplosionSet1_39: -1480297021
+      M484ExplosionSet1_52: 1822819320
+      M484ExplosionSet1_72: 1589526794
+      M484ExplosionSet1_89: -1984501937
+      M484ExplosionSet1_34: -678422851
+      M484ExplosionSet1_62: -879918555
+      M484ExplosionSet1_116: 799242511
+      M484ExplosionSet1_71: -240234769
+      M484ExplosionSet1_2: -109497513
+      M484ExplosionSet1_150: 1733890155
+      M484ExplosionSet1_3: -1723740352
+      M484ExplosionSet1_35: 584231340
+      M484ExplosionSet1_54: -1725776670
+      M484ExplosionSet1_161: 1551368707
+      M484ExplosionSet1_55: -1666490066
+      M484ExplosionSet1_179: -741424147
+      M484ExplosionSet1_226: 709753197
+      M484ExplosionSet1_147: -1067781547
+      M484ExplosionSet1_200: 221301590
+      M484ExplosionSet1_213: 964409754
+      M484ExplosionSet1_56: 1243556007
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
